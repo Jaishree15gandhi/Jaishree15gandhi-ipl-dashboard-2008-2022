@@ -41,11 +41,12 @@ This Power BI dashboard provides an interactive analysis of Indian Premier Leagu
 ## 📁 Folder Structure
 ```
 IPL-Dashboard-2008-2022/
-├── dashboard.pbix
-├── IPL_data.csv
 ├── README.md
-└── screenshots/
-    └── ipl_dashboard.png
+├── ipl_data_analysis.pbix
+├── ipl_ball_by_ball_2008_2022.csv
+├── ipl_matches_2008_2022.csv
+├── screenshots/
+│   └── ipl_dashboard.png
 
 ```
 
