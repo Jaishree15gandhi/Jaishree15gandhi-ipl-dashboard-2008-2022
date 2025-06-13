@@ -34,7 +34,7 @@ This Power BI dashboard provides an interactive analysis of Indian Premier Leagu
 
 ## 📷 Dashboard Preview
 
-![IPL Dashboard Preview](screenshots/ipl_dashboard.png)
+![IPL Dashboard Preview](ipl_dashboard.png)
 
 ---
 
@@ -66,11 +66,11 @@ This Power BI dashboard provides an interactive analysis of Indian Premier Leagu
 ---
 
 ## 🔗 LinkedIn Post
-[🔗 View My LinkedIn Post](#) *(Insert link after posting)*
+[🔗 View My LinkedIn Post] *(https://www.linkedin.com/posts/jaishree-gandhi-ab5498357_powerbi-postgresql-dataanalytics-activity-7334573242424156161-4gOd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFjh9SkBjgY17hZwco9O9omV08GAatAdMaA)*
 
 ---
 
 ## 📬 Contact
-Feel free to connect on [LinkedIn](#) or email me for any queries or collaboration opportunities.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jaishree-gandhi-ab5498357/) or email me for any queries or collaboration opportunities.
 
 ---
