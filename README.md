@@ -34,7 +34,7 @@ This Power BI dashboard provides an interactive analysis of Indian Premier Leagu
 
 ## 📷 Dashboard Preview
 
-![IPL Dashboard Preview](ipl_dashboard.png.png)
+![IPL Dashboard Preview](ipl_dashboard.png)
 
 ---
 
